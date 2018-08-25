@@ -1,0 +1,16 @@
+﻿  main.cpp
+main.cpp(19): warning C4190: для "GetName" задана С-компоновка, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(3997): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+main.cpp(25): warning C4190: для "GetConnString" задана С-компоновка, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\include\xstring(3997): note:  см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+main.cpp(38): warning C4244: return: преобразование "uint16_t" в "uint8_t", возможна потеря данных
+  MxConnectorRtLink.cpp
+MxConnectorRtLink.cpp(47): error C2440: =: невозможно преобразовать "std::chrono::system_clock::time_point" в "time_t"
+  MxConnectorRtLink.cpp(47): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+MxConnectorRtLink.cpp(57): warning C4305: =: усечение из "double" в "float"
+MxConnectorRtLink.cpp(59): error C2838: "STRING": недопустимое полное имя в объявлении члена
+MxConnectorRtLink.cpp(59): error C2065: STRING: необъявленный идентификатор
+MxConnectorRtLink.cpp(59): error C2131: выражение не определяется константой
+  MxConnectorRtLink.cpp(59): note: сбой был вызван неконстантными аргументами или ссылкой на неконстантный символ
+  MxConnectorRtLink.cpp(59): note: см. использование "STRING"
+MxConnectorRtLink.cpp(59): error C2051: значение выражения для варианта выбора не является константой

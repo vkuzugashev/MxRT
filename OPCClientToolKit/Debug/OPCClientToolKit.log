@@ -1,0 +1,19 @@
+﻿  OPCClient.cpp
+  Создание кода...
+  Компиляция...
+  Transaction.cpp
+  OPCServer.cpp
+  OPCProperties.cpp
+  OPCItemData.cpp
+  OPCItem.cpp
+  OPCHost.cpp
+c:\users\v_kuzugashev.sib\documents\visual studio 2017\projects\mxrt\opcclienttoolkit\opchost.cpp(123): warning C4477: "sprintf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPOLESTR"
+  c:\users\v_kuzugashev.sib\documents\visual studio 2017\projects\mxrt\opcclienttoolkit\opchost.cpp(123): note: рекомендуется использовать "%ls" в строке форматирования
+  c:\users\v_kuzugashev.sib\documents\visual studio 2017\projects\mxrt\opcclienttoolkit\opchost.cpp(123): note: рекомендуется использовать "%lls" в строке форматирования
+  c:\users\v_kuzugashev.sib\documents\visual studio 2017\projects\mxrt\opcclienttoolkit\opchost.cpp(123): note: рекомендуется использовать "%Ls" в строке форматирования
+  c:\users\v_kuzugashev.sib\documents\visual studio 2017\projects\mxrt\opcclienttoolkit\opchost.cpp(123): note: рекомендуется использовать "%ws" в строке форматирования
+  OPCGroup.cpp
+  Создание кода...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1369,5): warning MSB8012: TargetPath(C:\Users\v_kuzugashev.SIB\Documents\Visual Studio 2017\Projects\MxRT\Debug\OPCClientToolKit.lib) не соответствует значению свойства выходного файла (C:\Users\v_kuzugashev.SIB\Documents\Visual Studio 2017\Projects\MxRT\Debug\OPCClientToolKit32D.lib) для Library. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetName(OPCClientToolKit) не соответствует значению свойства выходного файла (OPCClientToolKit32D) для Library. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Lib.OutputFile).
+  OPCClientToolKit.vcxproj -> C:\Users\v_kuzugashev.SIB\Documents\Visual Studio 2017\Projects\MxRT\Debug\OPCClientToolKit.lib

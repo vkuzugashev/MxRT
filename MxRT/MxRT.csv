@@ -1,0 +1,10 @@
+Log.Level;1
+Storage.Enable;0
+RtLink.Enable;0
+RtLink.Port;8888
+RtLinkSql.Enable;0
+RtLinkSql.Port;8889
+Modbus.Enable;1
+Modbus.Port;502
+Modbus.Addr;127.0.0.1
+#Modbus.StartReg;1000

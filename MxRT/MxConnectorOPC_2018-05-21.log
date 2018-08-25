@@ -1,0 +1,50 @@
+21.05.2018 10:23:50 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:23:50 : WARN : Open() OPC server not connected!
+21.05.2018 10:24:49 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:24:49 : WARN : Open() OPC server not connected!
+21.05.2018 10:24:52 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:24:52 : WARN : Open() OPC server not connected!
+21.05.2018 10:26:22 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:26:22 : WARN : Open() OPC server not connected!
+21.05.2018 10:26:25 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:26:25 : WARN : Open() OPC server not connected!
+21.05.2018 10:26:28 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:26:28 : WARN : Open() OPC server not connected!
+21.05.2018 10:28:59 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:28:59 : WARN : Open() OPC server not connected!
+21.05.2018 10:29:05 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:29:05 : WARN : Open() OPC server not connected!
+21.05.2018 10:29:13 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:29:13 : WARN : Open() OPC server not connected!
+21.05.2018 10:29:36 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:29:36 : WARN : Open() OPC server not connected!
+21.05.2018 10:30:00 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:30:00 : WARN : Open() OPC server not connected!
+21.05.2018 10:31:23 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:31:23 : WARN : Open() OPC server not connected!
+21.05.2018 10:31:51 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:31:51 : WARN : Open() OPC server not connected!
+21.05.2018 10:32:29 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:32:29 : WARN : Open() OPC server not connected!
+21.05.2018 10:37:32 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:37:32 : WARN : Open() OPC server not connected!
+21.05.2018 10:48:42 : WARN : Open() error connect to OPC ICONICS.SimulatorOPCDA!
+21.05.2018 10:48:42 : WARN : Open() OPC server not connected!
+21.05.2018 10:51:01 : INFO : Open() OPC server connected!
+21.05.2018 10:51:05 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:07 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:07 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:09 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:10 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:11 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:12 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:13 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:14 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:15 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:16 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:17 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:18 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:19 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:20 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:21 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+21.05.2018 10:51:21 : INFO : Close() OPC client close.

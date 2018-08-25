@@ -1,0 +1,462 @@
+28.05.2018 15:28:55 : INFO : Open() OPC server connected!
+28.05.2018 15:28:58 : DEBUG : Read() for()
+28.05.2018 15:28:58 : DEBUG : tag1
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag2
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag3
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag4
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag5
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag6
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag7
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag8
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag9
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:28:58]
+28.05.2018 15:28:58 : DEBUG : tag10
+28.05.2018 15:28:58 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:28:58 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:28:58]
+28.05.2018 15:28:59 : DEBUG : Read() for()
+28.05.2018 15:28:59 : DEBUG : tag1
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag2
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag3
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag4
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag5
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag6
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag7
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag8
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag9
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:28:59]
+28.05.2018 15:28:59 : DEBUG : tag10
+28.05.2018 15:28:59 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:28:59 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:28:59]
+28.05.2018 15:29:00 : DEBUG : Read() for()
+28.05.2018 15:29:00 : DEBUG : tag1
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag2
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag3
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag4
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag5
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag6
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag7
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag8
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag9
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:00]
+28.05.2018 15:29:00 : DEBUG : tag10
+28.05.2018 15:29:00 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:00 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:00]
+28.05.2018 15:29:01 : DEBUG : Read() for()
+28.05.2018 15:29:01 : DEBUG : tag1
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag2
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag3
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag4
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag5
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag6
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag7
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag8
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag9
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:01]
+28.05.2018 15:29:01 : DEBUG : tag10
+28.05.2018 15:29:01 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:01 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:01]
+28.05.2018 15:29:02 : DEBUG : Read() for()
+28.05.2018 15:29:02 : DEBUG : tag1
+28.05.2018 15:29:02 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:02]
+28.05.2018 15:29:02 : DEBUG : tag2
+28.05.2018 15:29:02 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:02]
+28.05.2018 15:29:02 : DEBUG : tag3
+28.05.2018 15:29:02 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:02]
+28.05.2018 15:29:02 : DEBUG : tag4
+28.05.2018 15:29:02 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:02]
+28.05.2018 15:29:02 : DEBUG : tag5
+28.05.2018 15:29:02 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:02]
+28.05.2018 15:29:02 : DEBUG : tag6
+28.05.2018 15:29:02 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:02]
+28.05.2018 15:29:02 : DEBUG : tag7
+28.05.2018 15:29:03 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:02]
+28.05.2018 15:29:03 : DEBUG : tag8
+28.05.2018 15:29:03 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:02]
+28.05.2018 15:29:03 : DEBUG : tag9
+28.05.2018 15:29:03 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:02]
+28.05.2018 15:29:03 : DEBUG : tag10
+28.05.2018 15:29:03 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:03 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:02]
+28.05.2018 15:29:04 : DEBUG : Read() for()
+28.05.2018 15:29:04 : DEBUG : tag1
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag2
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag3
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag4
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag5
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag6
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag7
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag8
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag9
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:04]
+28.05.2018 15:29:04 : DEBUG : tag10
+28.05.2018 15:29:04 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:04 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:04]
+28.05.2018 15:29:05 : DEBUG : Read() for()
+28.05.2018 15:29:05 : DEBUG : tag1
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag2
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag3
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag4
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag5
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag6
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag7
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag8
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag9
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:05]
+28.05.2018 15:29:05 : DEBUG : tag10
+28.05.2018 15:29:05 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:05 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:05]
+28.05.2018 15:29:06 : DEBUG : Read() for()
+28.05.2018 15:29:06 : DEBUG : tag1
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag2
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag3
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag4
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag5
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag6
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag7
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag8
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag9
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:06]
+28.05.2018 15:29:06 : DEBUG : tag10
+28.05.2018 15:29:06 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:06 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:06]
+28.05.2018 15:29:07 : DEBUG : Read() for()
+28.05.2018 15:29:07 : DEBUG : tag1
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag2
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag3
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag4
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag5
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag6
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag7
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag8
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag9
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:07]
+28.05.2018 15:29:07 : DEBUG : tag10
+28.05.2018 15:29:07 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:07 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:07]
+28.05.2018 15:29:08 : DEBUG : Read() for()
+28.05.2018 15:29:08 : DEBUG : tag1
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag2
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag3
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag4
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag5
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag6
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag7
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag8
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag9
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:08]
+28.05.2018 15:29:08 : DEBUG : tag10
+28.05.2018 15:29:08 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:08 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:08]
+28.05.2018 15:29:09 : DEBUG : Read() for()
+28.05.2018 15:29:09 : DEBUG : tag1
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag2
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag3
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag4
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag5
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag6
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag7
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag8
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag9
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:09]
+28.05.2018 15:29:09 : DEBUG : tag10
+28.05.2018 15:29:09 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:09 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:09]
+28.05.2018 15:29:10 : DEBUG : Read() for()
+28.05.2018 15:29:10 : DEBUG : tag1
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag2
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag3
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag4
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag5
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag6
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag7
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag8
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag9
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:10]
+28.05.2018 15:29:10 : DEBUG : tag10
+28.05.2018 15:29:10 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:10 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:10]
+28.05.2018 15:29:11 : DEBUG : Read() for()
+28.05.2018 15:29:11 : DEBUG : tag1
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag2
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag3
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag4
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag5
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag6
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag7
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag8
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag9
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:11]
+28.05.2018 15:29:11 : DEBUG : tag10
+28.05.2018 15:29:11 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:11 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:11]
+28.05.2018 15:29:12 : DEBUG : Read() for()
+28.05.2018 15:29:12 : DEBUG : tag1
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag2
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag3
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag4
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag5
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag6
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag7
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag8
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag9
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:12]
+28.05.2018 15:29:12 : DEBUG : tag10
+28.05.2018 15:29:12 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:12 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:12]
+28.05.2018 15:29:13 : DEBUG : Read() for()
+28.05.2018 15:29:13 : DEBUG : tag1
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag2
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag3
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag4
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag5
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag6
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag7
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag8
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag9
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:13]
+28.05.2018 15:29:13 : DEBUG : tag10
+28.05.2018 15:29:13 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:13 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:13]
+28.05.2018 15:29:14 : DEBUG : Read() for()
+28.05.2018 15:29:14 : DEBUG : tag1
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag2
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag3
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag4
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag5
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag6
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag7
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag8
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag9
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:14]
+28.05.2018 15:29:14 : DEBUG : tag10
+28.05.2018 15:29:14 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:14 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:14]
+28.05.2018 15:29:15 : DEBUG : Read() for()
+28.05.2018 15:29:15 : DEBUG : tag1
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag2
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag3
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag4
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag5
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag6
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag7
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag8
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag9
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:15]
+28.05.2018 15:29:15 : DEBUG : tag10
+28.05.2018 15:29:15 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:15 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:15]
+28.05.2018 15:29:16 : DEBUG : Read() for()
+28.05.2018 15:29:16 : DEBUG : tag1
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag2
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag3
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag4
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag5
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag6
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag7
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag8
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag9
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:16]
+28.05.2018 15:29:16 : DEBUG : tag10
+28.05.2018 15:29:16 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:16 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:16]
+28.05.2018 15:29:17 : DEBUG : Read() for()
+28.05.2018 15:29:17 : DEBUG : tag1
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag2
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag3
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag4
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag5
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag6
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag7
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag8
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag9
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:17]
+28.05.2018 15:29:17 : DEBUG : tag10
+28.05.2018 15:29:17 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:17 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:17]
+28.05.2018 15:29:18 : DEBUG : Read() for()
+28.05.2018 15:29:18 : DEBUG : tag1
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag1[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag2
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag2[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag3
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag3[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag4
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag4[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag5
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag5[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag6
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag6[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag7
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag7[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag8
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag8[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag9
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag9[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : DEBUG : tag10
+28.05.2018 15:29:18 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:29:18 : DEBUG : Read() OPC request tag: tag10[28.05.2018 15:29:18]
+28.05.2018 15:29:18 : INFO : Close() OPC client close.
+28.05.2018 15:30:08 : INFO : Open() OPC server connected!
+28.05.2018 15:30:11 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:12 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:13 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:14 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:15 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:16 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:17 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:18 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:19 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:20 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:21 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:22 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:23 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:24 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:25 : WARN : OPC method Read(), error read tag=tag10, source=1-Numeric._I2
+28.05.2018 15:30:25 : INFO : Close() OPC client close.
+28.05.2018 15:32:23 : INFO : Open() OPC server connected!
+28.05.2018 15:46:40 : INFO : Open() OPC server connected!
+28.05.2018 15:47:19 : INFO : Close() OPC client close.

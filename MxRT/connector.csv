@@ -1,0 +1,4 @@
+con1;MxConnectorOPC.dll;ICONICS.SimulatorOPCDA
+#con1;MxConnectorSocketClient.dll;ICONICS.SimulatorOPCDA
+#con1;MxConnectorTest.dll;host:xxx
+#con3;libMxConnectorOPC.dll;host:xxx

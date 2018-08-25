@@ -1,0 +1,497 @@
+29.05.2018 10:29:53 : INFO : MxRT runtime data collection station.
+29.05.2018 10:31:42 : INFO : MxRT runtime data collection station.
+29.05.2018 10:34:05 : INFO : MxRT runtime data collection station.
+29.05.2018 10:40:54 : INFO : MxRT runtime data collection station.
+29.05.2018 10:40:57 : INFO : Version 1.0, 2017
+29.05.2018 10:41:46 : INFO : MxRT runtime data collection station.
+29.05.2018 10:41:48 : INFO : Version 1.0, 2017
+29.05.2018 10:44:48 : INFO : MxRT runtime data collection station.
+29.05.2018 10:45:49 : INFO : MxRT runtime data collection station.
+29.05.2018 10:45:52 : INFO : Version 1.0, 2017
+29.05.2018 10:45:52 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 10:45:52 : INFO : Load configuration ...
+29.05.2018 10:45:52 : INFO : Configuration loaded.
+29.05.2018 10:45:52 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 10:45:52 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 10:45:52 : INFO : Runtime con1 thread started
+29.05.2018 10:45:52 : INFO : Modbus started.
+29.05.2018 10:45:52 : INFO : Server started.
+29.05.2018 10:45:52 : INFO : Modbus port opened!
+29.05.2018 10:45:55 : WARN : Open() OPC server not connected!
+29.05.2018 10:46:17 : INFO : MxRT runtime data collection station.
+29.05.2018 10:46:17 : INFO : Version 1.0, 2017
+29.05.2018 10:46:18 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 10:46:22 : INFO : Load configuration ...
+29.05.2018 10:47:51 : INFO : Configuration loaded.
+29.05.2018 10:48:08 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 10:48:08 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 10:48:08 : INFO : Runtime con1 thread started
+29.05.2018 10:48:17 : INFO : Modbus started.
+29.05.2018 10:48:18 : WARN : Open() OPC server not connected!
+29.05.2018 10:48:18 : INFO : Server started.
+29.05.2018 10:51:23 : INFO : MxRT runtime data collection station.
+29.05.2018 10:51:23 : INFO : Version 1.0, 2017
+29.05.2018 10:51:23 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 10:51:23 : INFO : Load configuration ...
+29.05.2018 10:51:34 : INFO : Configuration loaded.
+29.05.2018 10:51:49 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 10:51:49 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 10:51:49 : INFO : Runtime con1 thread started
+29.05.2018 10:51:51 : INFO : Modbus started.
+29.05.2018 10:51:52 : INFO : Server started.
+29.05.2018 10:51:52 : INFO : Modbus port opened!
+29.05.2018 10:51:57 : WARN : Open() OPC server not connected!
+29.05.2018 10:54:37 : INFO : MxRT runtime data collection station.
+29.05.2018 10:54:37 : INFO : Version 1.0, 2017
+29.05.2018 10:54:37 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 10:54:37 : INFO : Load configuration ...
+29.05.2018 10:54:38 : INFO : Configuration loaded.
+29.05.2018 10:54:38 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 10:54:38 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 10:54:38 : INFO : Runtime con1 thread started
+29.05.2018 10:54:38 : INFO : Modbus started.
+29.05.2018 10:54:38 : INFO : Server started.
+29.05.2018 10:54:38 : INFO : Modbus port opened!
+29.05.2018 10:54:38 : WARN : Open() OPC server not connected!
+29.05.2018 12:54:35 : INFO : MxRT runtime data collection station.
+29.05.2018 12:54:35 : INFO : Version 1.0, 2017
+29.05.2018 12:54:35 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 12:54:35 : INFO : Load configuration ...
+29.05.2018 12:54:35 : INFO : Configuration loaded.
+29.05.2018 12:54:35 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 12:54:35 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 12:54:35 : INFO : Runtime con1 thread started
+29.05.2018 12:54:35 : INFO : Modbus started.
+29.05.2018 12:54:35 : INFO : Server started.
+29.05.2018 12:54:35 : INFO : Modbus port opened!
+29.05.2018 12:54:36 : WARN : Open() OPC server not connected!
+29.05.2018 12:54:42 : WARN : Open() OPC server not connected!
+29.05.2018 12:54:47 : INFO : Modbus closed with error: No error
+29.05.2018 12:54:47 : INFO : Modbus stopped.
+29.05.2018 12:54:48 : INFO : Runtime con1 thread stopped
+29.05.2018 12:54:48 : INFO : Server stoped.
+29.05.2018 14:20:56 : INFO : MxRT runtime data collection station.
+29.05.2018 14:20:56 : INFO : Version 1.0, 2017
+29.05.2018 14:20:56 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 14:20:56 : INFO : Load configuration ...
+29.05.2018 14:20:56 : INFO : Configuration loaded.
+29.05.2018 14:20:56 : ERROR : StartServiceCtrlDispatcher(), error 1063
+29.05.2018 14:22:55 : INFO : MxRT runtime data collection station.
+29.05.2018 14:22:55 : INFO : Version 1.0, 2017
+29.05.2018 14:22:55 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 14:22:55 : INFO : Load configuration ...
+29.05.2018 14:22:55 : INFO : Configuration loaded.
+29.05.2018 14:22:55 : ERROR : StartServiceCtrlDispatcher(), error 1063
+29.05.2018 14:23:21 : INFO : MxRT runtime data collection station.
+29.05.2018 14:23:21 : INFO : Version 1.0, 2017
+29.05.2018 14:23:21 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 14:23:21 : INFO : Load configuration ...
+29.05.2018 14:23:21 : INFO : Configuration loaded.
+29.05.2018 14:23:21 : ERROR : StartServiceCtrlDispatcher(), error 1063
+29.05.2018 14:31:57 : INFO : Version 1.0, 2017
+29.05.2018 14:31:57 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 14:31:57 : INFO : Load configuration ...
+29.05.2018 14:31:57 : INFO : Configuration loaded.
+29.05.2018 14:31:57 : ERROR : StartServiceCtrlDispatcher(), error 1063
+29.05.2018 14:35:01 : INFO : MxRT runtime data collection station.
+29.05.2018 14:35:01 : INFO : Version 1.0, 2017
+29.05.2018 14:35:01 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 14:35:01 : INFO : Load configuration ...
+29.05.2018 14:35:01 : INFO : Configuration loaded.
+29.05.2018 14:35:01 : ERROR : StartServiceCtrlDispatcher(), error 1063
+29.05.2018 14:36:04 : INFO : MxRT runtime data collection station.
+29.05.2018 14:36:04 : INFO : Version 1.0, 2017
+29.05.2018 14:36:04 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 14:36:04 : INFO : Load configuration ...
+29.05.2018 14:36:04 : INFO : Configuration loaded.
+29.05.2018 14:36:04 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 14:36:04 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 14:36:04 : INFO : Runtime con1 thread started
+29.05.2018 14:36:04 : INFO : Modbus started.
+29.05.2018 14:36:04 : INFO : Server started.
+29.05.2018 14:36:04 : INFO : Modbus port opened!
+29.05.2018 14:36:19 : INFO : ET-028558
+
+29.05.2018 14:36:19 : INFO : ProgID: ArchestrA.FSGateway.3 
+29.05.2018 14:36:19 : INFO : CLSID: {19D98A61-B3CA-4143-0088-35464D714EA0}
+
+29.05.2018 14:36:19 : INFO : ProgID: ICONICS.SimulatorOPCDA.2 
+29.05.2018 14:36:19 : INFO : CLSID: {A879768A-7387-11D4-B0D8-009027242C59}
+
+29.05.2018 14:36:19 : INFO : ET-028558
+
+29.05.2018 14:36:20 : INFO : Open() OPC server connected!
+29.05.2018 14:53:31 : INFO : MxRT runtime data collection station.
+29.05.2018 14:53:31 : INFO : Version 1.0, 2017
+29.05.2018 14:53:31 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 14:53:31 : INFO : Load configuration ...
+29.05.2018 14:53:31 : INFO : Configuration loaded.
+29.05.2018 14:53:31 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 14:53:31 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 14:53:31 : INFO : Runtime con1 thread started
+29.05.2018 14:53:31 : INFO : Modbus started.
+29.05.2018 14:53:31 : INFO : Server started.
+29.05.2018 14:53:31 : INFO : Modbus port opened!
+29.05.2018 14:53:31 : INFO : ET-028558
+
+29.05.2018 14:53:31 : INFO : ProgID: ArchestrA.FSGateway.3 
+29.05.2018 14:53:31 : INFO : CLSID: {19D98A61-B3CA-4143-0088-35464D714EA0}
+
+29.05.2018 14:53:31 : INFO : ProgID: ICONICS.SimulatorOPCDA.2 
+29.05.2018 14:53:31 : INFO : CLSID: {A879768A-7387-11D4-B0D8-009027242C59}
+
+29.05.2018 14:53:31 : INFO : ET-028558
+
+29.05.2018 14:53:31 : INFO : Open() OPC server connected!
+29.05.2018 15:02:15 : INFO : Modbus closed with error: No error
+29.05.2018 15:02:15 : INFO : Modbus stopped.
+29.05.2018 15:02:15 : INFO : Close() OPC client close.
+29.05.2018 15:02:15 : INFO : Runtime con1 thread stopped
+29.05.2018 15:02:15 : INFO : Server stoped.
+29.05.2018 15:28:05 : INFO : MxRT runtime data collection station.
+29.05.2018 15:28:05 : INFO : Version 1.0, 2017
+29.05.2018 15:28:05 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 15:28:05 : INFO : Load configuration ...
+29.05.2018 15:28:05 : INFO : Configuration loaded.
+29.05.2018 15:28:05 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 15:28:05 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 15:28:05 : INFO : Runtime con1 thread started
+29.05.2018 15:28:05 : INFO : Modbus started.
+29.05.2018 15:28:05 : INFO : Server started.
+29.05.2018 15:28:05 : INFO : Modbus port opened!
+29.05.2018 15:28:05 : INFO : ET-028558
+
+29.05.2018 15:28:05 : INFO : ProgID: ArchestrA.FSGateway.3 
+29.05.2018 15:28:05 : INFO : CLSID: {19D98A61-B3CA-4143-0088-35464D714EA0}
+
+29.05.2018 15:28:05 : INFO : ProgID: ICONICS.SimulatorOPCDA.2 
+29.05.2018 15:28:05 : INFO : CLSID: {A879768A-7387-11D4-B0D8-009027242C59}
+
+29.05.2018 15:28:06 : INFO : ET-028558
+
+29.05.2018 15:28:06 : INFO : Open() OPC server connected!
+29.05.2018 15:34:54 : INFO : Modbus closed with error: No error
+29.05.2018 15:34:54 : INFO : Modbus stopped.
+29.05.2018 15:34:54 : INFO : Close() OPC client close.
+29.05.2018 15:34:54 : INFO : Runtime con1 thread stopped
+29.05.2018 15:34:54 : INFO : Server stoped.
+29.05.2018 15:35:04 : INFO : MxRT runtime data collection station.
+29.05.2018 15:35:04 : INFO : Version 1.0, 2017
+29.05.2018 15:35:04 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 15:35:04 : INFO : Load configuration ...
+29.05.2018 15:35:04 : INFO : Configuration loaded.
+29.05.2018 15:35:04 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 15:35:04 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 15:35:04 : INFO : Runtime con1 thread started
+29.05.2018 15:35:04 : INFO : Modbus started.
+29.05.2018 15:35:04 : INFO : Server started.
+29.05.2018 15:35:04 : INFO : Modbus port opened!
+29.05.2018 15:35:05 : INFO : ET-028558
+
+29.05.2018 15:35:05 : INFO : ProgID: ArchestrA.FSGateway.3 
+29.05.2018 15:35:05 : INFO : CLSID: {19D98A61-B3CA-4143-0088-35464D714EA0}
+
+29.05.2018 15:35:05 : INFO : ProgID: ICONICS.SimulatorOPCDA.2 
+29.05.2018 15:35:05 : INFO : CLSID: {A879768A-7387-11D4-B0D8-009027242C59}
+
+29.05.2018 15:35:05 : INFO : ET-028558
+
+29.05.2018 15:35:05 : INFO : Open() OPC server connected!
+29.05.2018 15:35:08 : WARN : timeVal error
+29.05.2018 15:35:09 : WARN : timeVal error
+29.05.2018 15:35:10 : WARN : timeVal error
+29.05.2018 15:35:11 : WARN : timeVal error
+29.05.2018 15:35:12 : WARN : timeVal error
+29.05.2018 15:35:13 : WARN : timeVal error
+29.05.2018 15:35:14 : WARN : timeVal error
+29.05.2018 15:35:15 : WARN : timeVal error
+29.05.2018 15:35:16 : WARN : timeVal error
+29.05.2018 15:35:17 : WARN : timeVal error
+29.05.2018 15:35:18 : WARN : timeVal error
+29.05.2018 15:35:19 : WARN : timeVal error
+29.05.2018 15:35:20 : WARN : timeVal error
+29.05.2018 15:35:21 : WARN : timeVal error
+29.05.2018 15:35:22 : WARN : timeVal error
+29.05.2018 15:35:23 : WARN : timeVal error
+29.05.2018 15:35:24 : WARN : timeVal error
+29.05.2018 15:35:25 : WARN : timeVal error
+29.05.2018 15:35:26 : WARN : timeVal error
+29.05.2018 15:35:27 : WARN : timeVal error
+29.05.2018 15:35:28 : WARN : timeVal error
+29.05.2018 15:35:29 : WARN : timeVal error
+29.05.2018 15:35:30 : WARN : timeVal error
+29.05.2018 15:35:31 : WARN : timeVal error
+29.05.2018 15:35:32 : WARN : timeVal error
+29.05.2018 15:35:33 : WARN : timeVal error
+29.05.2018 15:35:34 : WARN : timeVal error
+29.05.2018 15:35:35 : WARN : timeVal error
+29.05.2018 15:35:36 : WARN : timeVal error
+29.05.2018 15:35:37 : WARN : timeVal error
+29.05.2018 15:35:38 : WARN : timeVal error
+29.05.2018 15:35:39 : WARN : timeVal error
+29.05.2018 15:35:40 : WARN : timeVal error
+29.05.2018 15:35:41 : WARN : timeVal error
+29.05.2018 15:35:42 : WARN : timeVal error
+29.05.2018 15:35:43 : WARN : timeVal error
+29.05.2018 15:35:44 : WARN : timeVal error
+29.05.2018 15:35:45 : WARN : timeVal error
+29.05.2018 15:35:46 : WARN : timeVal error
+29.05.2018 15:35:47 : WARN : timeVal error
+29.05.2018 15:35:48 : WARN : timeVal error
+29.05.2018 15:35:49 : WARN : timeVal error
+29.05.2018 15:35:50 : WARN : timeVal error
+29.05.2018 15:35:51 : WARN : timeVal error
+29.05.2018 15:35:52 : WARN : timeVal error
+29.05.2018 15:35:53 : WARN : timeVal error
+29.05.2018 15:35:54 : WARN : timeVal error
+29.05.2018 15:35:55 : WARN : timeVal error
+29.05.2018 15:35:56 : WARN : timeVal error
+29.05.2018 15:35:57 : WARN : timeVal error
+29.05.2018 15:35:58 : WARN : timeVal error
+29.05.2018 15:35:59 : WARN : timeVal error
+29.05.2018 15:36:00 : WARN : timeVal error
+29.05.2018 15:36:01 : WARN : timeVal error
+29.05.2018 15:36:02 : WARN : timeVal error
+29.05.2018 15:36:03 : WARN : timeVal error
+29.05.2018 15:36:04 : WARN : timeVal error
+29.05.2018 15:36:05 : WARN : timeVal error
+29.05.2018 15:36:06 : WARN : timeVal error
+29.05.2018 15:36:07 : WARN : timeVal error
+29.05.2018 15:36:08 : WARN : timeVal error
+29.05.2018 15:36:09 : WARN : timeVal error
+29.05.2018 15:36:10 : WARN : timeVal error
+29.05.2018 15:36:11 : WARN : timeVal error
+29.05.2018 15:36:12 : WARN : timeVal error
+29.05.2018 15:36:13 : WARN : timeVal error
+29.05.2018 15:36:14 : WARN : timeVal error
+29.05.2018 15:36:15 : WARN : timeVal error
+29.05.2018 15:36:16 : WARN : timeVal error
+29.05.2018 15:36:17 : WARN : timeVal error
+29.05.2018 15:36:18 : WARN : timeVal error
+29.05.2018 15:36:19 : WARN : timeVal error
+29.05.2018 15:36:20 : WARN : timeVal error
+29.05.2018 15:36:21 : WARN : timeVal error
+29.05.2018 15:36:22 : WARN : timeVal error
+29.05.2018 15:36:23 : WARN : timeVal error
+29.05.2018 15:36:24 : WARN : timeVal error
+29.05.2018 15:36:25 : WARN : timeVal error
+29.05.2018 15:36:26 : WARN : timeVal error
+29.05.2018 15:36:27 : WARN : timeVal error
+29.05.2018 15:36:28 : WARN : timeVal error
+29.05.2018 15:36:29 : WARN : timeVal error
+29.05.2018 15:36:30 : WARN : timeVal error
+29.05.2018 15:36:31 : WARN : timeVal error
+29.05.2018 15:36:32 : WARN : timeVal error
+29.05.2018 15:36:34 : WARN : timeVal error
+29.05.2018 15:36:35 : WARN : timeVal error
+29.05.2018 15:36:36 : WARN : timeVal error
+29.05.2018 15:36:37 : WARN : timeVal error
+29.05.2018 15:36:38 : WARN : timeVal error
+29.05.2018 15:36:39 : WARN : timeVal error
+29.05.2018 15:36:40 : WARN : timeVal error
+29.05.2018 15:36:41 : WARN : timeVal error
+29.05.2018 15:36:42 : WARN : timeVal error
+29.05.2018 15:36:43 : WARN : timeVal error
+29.05.2018 15:36:44 : WARN : timeVal error
+29.05.2018 15:36:45 : WARN : timeVal error
+29.05.2018 15:36:46 : WARN : timeVal error
+29.05.2018 15:36:47 : WARN : timeVal error
+29.05.2018 15:36:48 : WARN : timeVal error
+29.05.2018 15:36:49 : WARN : timeVal error
+29.05.2018 15:36:50 : WARN : timeVal error
+29.05.2018 15:36:51 : WARN : timeVal error
+29.05.2018 15:36:52 : WARN : timeVal error
+29.05.2018 15:36:53 : WARN : timeVal error
+29.05.2018 15:36:54 : WARN : timeVal error
+29.05.2018 15:36:55 : WARN : timeVal error
+29.05.2018 15:36:56 : WARN : timeVal error
+29.05.2018 15:36:57 : WARN : timeVal error
+29.05.2018 15:36:58 : WARN : timeVal error
+29.05.2018 15:36:59 : WARN : timeVal error
+29.05.2018 15:37:00 : WARN : timeVal error
+29.05.2018 15:37:01 : WARN : timeVal error
+29.05.2018 15:37:02 : WARN : timeVal error
+29.05.2018 15:37:03 : WARN : timeVal error
+29.05.2018 15:37:04 : WARN : timeVal error
+29.05.2018 15:37:05 : WARN : timeVal error
+29.05.2018 15:37:06 : WARN : timeVal error
+29.05.2018 15:37:07 : WARN : timeVal error
+29.05.2018 15:37:08 : WARN : timeVal error
+29.05.2018 15:37:09 : WARN : timeVal error
+29.05.2018 15:37:10 : WARN : timeVal error
+29.05.2018 15:37:11 : WARN : timeVal error
+29.05.2018 15:37:12 : WARN : timeVal error
+29.05.2018 15:37:13 : WARN : timeVal error
+29.05.2018 15:37:14 : WARN : timeVal error
+29.05.2018 15:37:15 : WARN : timeVal error
+29.05.2018 15:37:16 : WARN : timeVal error
+29.05.2018 15:37:17 : WARN : timeVal error
+29.05.2018 15:37:18 : WARN : timeVal error
+29.05.2018 15:37:19 : WARN : timeVal error
+29.05.2018 15:37:20 : WARN : timeVal error
+29.05.2018 15:37:21 : WARN : timeVal error
+29.05.2018 15:37:22 : WARN : timeVal error
+29.05.2018 15:37:23 : WARN : timeVal error
+29.05.2018 15:37:24 : WARN : timeVal error
+29.05.2018 15:37:25 : WARN : timeVal error
+29.05.2018 15:37:26 : WARN : timeVal error
+29.05.2018 15:37:27 : WARN : timeVal error
+29.05.2018 15:37:28 : WARN : timeVal error
+29.05.2018 15:37:29 : WARN : timeVal error
+29.05.2018 15:37:30 : WARN : timeVal error
+29.05.2018 15:37:31 : WARN : timeVal error
+29.05.2018 15:37:32 : WARN : timeVal error
+29.05.2018 15:37:33 : WARN : timeVal error
+29.05.2018 15:37:34 : WARN : timeVal error
+29.05.2018 15:37:35 : WARN : timeVal error
+29.05.2018 15:37:36 : WARN : timeVal error
+29.05.2018 15:37:37 : WARN : timeVal error
+29.05.2018 15:37:38 : WARN : timeVal error
+29.05.2018 15:37:39 : WARN : timeVal error
+29.05.2018 15:37:40 : WARN : timeVal error
+29.05.2018 15:37:41 : WARN : timeVal error
+29.05.2018 15:37:42 : WARN : timeVal error
+29.05.2018 15:37:43 : WARN : timeVal error
+29.05.2018 15:37:44 : WARN : timeVal error
+29.05.2018 15:37:45 : WARN : timeVal error
+29.05.2018 15:37:46 : WARN : timeVal error
+29.05.2018 15:37:47 : WARN : timeVal error
+29.05.2018 15:37:48 : WARN : timeVal error
+29.05.2018 15:37:49 : WARN : timeVal error
+29.05.2018 15:37:50 : WARN : timeVal error
+29.05.2018 15:37:51 : WARN : timeVal error
+29.05.2018 15:37:52 : WARN : timeVal error
+29.05.2018 15:37:53 : WARN : timeVal error
+29.05.2018 15:37:54 : WARN : timeVal error
+29.05.2018 15:37:55 : WARN : timeVal error
+29.05.2018 15:37:56 : WARN : timeVal error
+29.05.2018 15:37:57 : WARN : timeVal error
+29.05.2018 15:37:58 : WARN : timeVal error
+29.05.2018 15:37:59 : WARN : timeVal error
+29.05.2018 15:38:00 : WARN : timeVal error
+29.05.2018 15:38:01 : WARN : timeVal error
+29.05.2018 15:38:02 : WARN : timeVal error
+29.05.2018 15:38:03 : WARN : timeVal error
+29.05.2018 15:38:04 : WARN : timeVal error
+29.05.2018 15:38:05 : WARN : timeVal error
+29.05.2018 15:38:06 : WARN : timeVal error
+29.05.2018 15:38:07 : WARN : timeVal error
+29.05.2018 15:38:08 : WARN : timeVal error
+29.05.2018 15:38:09 : WARN : timeVal error
+29.05.2018 15:38:10 : WARN : timeVal error
+29.05.2018 15:38:11 : WARN : timeVal error
+29.05.2018 15:38:12 : WARN : timeVal error
+29.05.2018 15:38:13 : WARN : timeVal error
+29.05.2018 15:38:14 : WARN : timeVal error
+29.05.2018 15:38:15 : WARN : timeVal error
+29.05.2018 15:38:16 : WARN : timeVal error
+29.05.2018 15:38:17 : WARN : timeVal error
+29.05.2018 15:38:18 : WARN : timeVal error
+29.05.2018 15:38:19 : WARN : timeVal error
+29.05.2018 15:38:20 : WARN : timeVal error
+29.05.2018 15:38:21 : WARN : timeVal error
+29.05.2018 15:38:22 : WARN : timeVal error
+29.05.2018 15:38:23 : WARN : timeVal error
+29.05.2018 15:38:24 : WARN : timeVal error
+29.05.2018 15:38:25 : WARN : timeVal error
+29.05.2018 15:38:26 : WARN : timeVal error
+29.05.2018 15:38:27 : WARN : timeVal error
+29.05.2018 15:38:28 : WARN : timeVal error
+29.05.2018 15:38:29 : WARN : timeVal error
+29.05.2018 15:38:30 : WARN : timeVal error
+29.05.2018 15:38:31 : WARN : timeVal error
+29.05.2018 15:38:32 : WARN : timeVal error
+29.05.2018 15:38:33 : WARN : timeVal error
+29.05.2018 15:38:34 : WARN : timeVal error
+29.05.2018 15:38:35 : WARN : timeVal error
+29.05.2018 15:38:36 : WARN : timeVal error
+29.05.2018 15:38:37 : WARN : timeVal error
+29.05.2018 15:38:38 : WARN : timeVal error
+29.05.2018 15:38:39 : WARN : timeVal error
+29.05.2018 15:38:40 : WARN : timeVal error
+29.05.2018 15:38:41 : WARN : timeVal error
+29.05.2018 15:38:42 : WARN : timeVal error
+29.05.2018 15:38:43 : WARN : timeVal error
+29.05.2018 15:38:44 : WARN : timeVal error
+29.05.2018 15:38:45 : WARN : timeVal error
+29.05.2018 15:38:46 : WARN : timeVal error
+29.05.2018 15:38:47 : WARN : timeVal error
+29.05.2018 15:38:48 : WARN : timeVal error
+29.05.2018 15:38:49 : WARN : timeVal error
+29.05.2018 15:38:50 : WARN : timeVal error
+29.05.2018 15:38:51 : WARN : timeVal error
+29.05.2018 15:38:52 : WARN : timeVal error
+29.05.2018 15:38:53 : WARN : timeVal error
+29.05.2018 15:38:54 : WARN : timeVal error
+29.05.2018 15:38:55 : WARN : timeVal error
+29.05.2018 15:38:56 : WARN : timeVal error
+29.05.2018 15:38:57 : WARN : timeVal error
+29.05.2018 15:38:58 : WARN : timeVal error
+29.05.2018 15:38:59 : WARN : timeVal error
+29.05.2018 15:39:00 : WARN : timeVal error
+29.05.2018 15:39:01 : WARN : timeVal error
+29.05.2018 15:39:02 : WARN : timeVal error
+29.05.2018 15:39:03 : WARN : timeVal error
+29.05.2018 15:39:04 : WARN : timeVal error
+29.05.2018 15:39:05 : WARN : timeVal error
+29.05.2018 15:39:06 : WARN : timeVal error
+29.05.2018 15:39:06 : INFO : Modbus closed with error: No error
+29.05.2018 15:39:06 : INFO : Modbus stopped.
+29.05.2018 15:39:07 : INFO : Close() OPC client close.
+29.05.2018 15:39:07 : INFO : Runtime con1 thread stopped
+29.05.2018 15:39:07 : INFO : Server stoped.
+29.05.2018 15:40:55 : INFO : MxRT runtime data collection station.
+29.05.2018 15:40:55 : INFO : Version 1.0, 2017
+29.05.2018 15:40:55 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 15:40:55 : INFO : Load configuration ...
+29.05.2018 15:40:55 : INFO : Configuration loaded.
+29.05.2018 15:40:55 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 15:40:55 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 15:40:55 : INFO : Runtime con1 thread started
+29.05.2018 15:40:55 : INFO : Modbus started.
+29.05.2018 15:40:55 : INFO : Server started.
+29.05.2018 15:40:55 : INFO : Modbus port opened!
+29.05.2018 15:40:56 : INFO : ET-028558
+
+29.05.2018 15:40:56 : INFO : ProgID: ArchestrA.FSGateway.3 
+29.05.2018 15:40:56 : INFO : CLSID: {19D98A61-B3CA-4143-0088-35464D714EA0}
+
+29.05.2018 15:40:56 : INFO : ProgID: ICONICS.SimulatorOPCDA.2 
+29.05.2018 15:40:56 : INFO : CLSID: {A879768A-7387-11D4-B0D8-009027242C59}
+
+29.05.2018 15:40:56 : INFO : ET-028558
+
+29.05.2018 15:40:56 : INFO : Open() OPC server connected!
+29.05.2018 15:51:13 : INFO : MxRT runtime data collection station.
+29.05.2018 15:51:13 : INFO : Version 1.0, 2017
+29.05.2018 15:51:13 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 15:51:14 : INFO : Load configuration ...
+29.05.2018 15:51:14 : INFO : Configuration loaded.
+29.05.2018 15:51:14 : INFO : Runtime con1 connector MxConnectorOPC.dll loaded
+29.05.2018 15:51:14 : INFO : Runtime con1 connector string ICONICS.SimulatorOPCDA
+29.05.2018 15:51:14 : INFO : Runtime con1 thread started
+29.05.2018 15:51:14 : INFO : Modbus started.
+29.05.2018 15:51:14 : INFO : Server started.
+29.05.2018 15:51:14 : INFO : Modbus port opened!
+29.05.2018 15:51:14 : INFO : ET-028558
+
+29.05.2018 15:51:14 : INFO : ProgID: ArchestrA.FSGateway.3 
+29.05.2018 15:51:14 : INFO : CLSID: {19D98A61-B3CA-4143-0088-35464D714EA0}
+
+29.05.2018 15:51:14 : INFO : ProgID: ICONICS.SimulatorOPCDA.2 
+29.05.2018 15:51:14 : INFO : CLSID: {A879768A-7387-11D4-B0D8-009027242C59}
+
+29.05.2018 15:51:14 : INFO : ET-028558
+
+29.05.2018 15:51:14 : INFO : Open() OPC server connected!
+29.05.2018 15:51:58 : INFO : Modbus closed with error: No error
+29.05.2018 15:51:58 : INFO : Modbus stopped.
+29.05.2018 15:51:58 : INFO : Close() OPC client close.
+29.05.2018 15:51:58 : INFO : Runtime con1 thread stopped
+29.05.2018 15:51:58 : INFO : Server stoped.
+29.05.2018 15:58:01 : INFO : MxRT runtime data collection station.
+29.05.2018 15:58:01 : INFO : Version 1.0, 2017
+29.05.2018 15:58:01 : INFO : Kuzugashev VI, penart@list.ru
+29.05.2018 15:58:01 : INFO : Load configuration ...
+29.05.2018 15:58:01 : INFO : Configuration loaded.
+29.05.2018 15:58:01 : ERROR : StartServiceCtrlDispatcher(), error 1063
